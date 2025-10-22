@@ -16,3 +16,7 @@ gcc scheduling_simulator.c -o scheduler
 
 3. Run the executable:
 ./scheduler
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2a55243 (Homework7)
